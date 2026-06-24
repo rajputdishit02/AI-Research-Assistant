@@ -40,13 +40,13 @@ pip install -r requirements.txt
 ## Screenshots
 
 ## Upload and Process PDFs
-Screenshot/upload_screen.png
+![Upload Screen](Screenshot/upload-screen.png)
 
 ## Question Answering
-Screenshot/question_answering.png
+![Question Answering](Screenshot/question_answering.png)
 
 ## Document Summaries
-readme.md Screenshot/document_summary.png
+![Document Summary](Screenshot/document_summary.png)
 
 ## Extract Key Information
-Screenshot/key_information.png
+![Key Information](Screenshot/key_information.png)
