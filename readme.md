@@ -36,7 +36,7 @@ An AI-powered document assistant that allows users to upload PDFs, ask questions
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Screenshots
 
 ## Upload and Process PDFs
