@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## Screenshots
 
 ## Upload and Process PDFs
-![Upload Screen](Screenshot/upload-screen.png)
+![Upload Screen](Screenshot/upload_screen.png)
 
 ## Question Answering
 ![Question Answering](Screenshot/question_answering.png)
