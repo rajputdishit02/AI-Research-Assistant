@@ -35,8 +35,16 @@ An AI-powered document assistant that allows users to upload PDFs, ask questions
 ## Installation
 
 ```bash
+git clone https://github.com/rajputdishit02/AI-Research-Assistant.git
+cd AI-Research-Assistant
+
 pip install -r requirements.txt
+
+ollama pull llama3.2:3b
+
+streamlit run app.py
 ```
+
 ## Screenshots
 
 ## Upload and Process PDFs
@@ -50,3 +58,10 @@ pip install -r requirements.txt
 
 ## Extract Key Information
 ![Key Information](Screenshot/key_information.png)
+
+## Future Improvements
+
+- Add support for DOCX and TXT files
+- Improve multi-document comparison
+- Export summaries as PDF
+- Add deployment version using cloud LLMs
